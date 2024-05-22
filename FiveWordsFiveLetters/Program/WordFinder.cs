@@ -41,7 +41,7 @@ namespace WordProgram
         List<KeyValuePair<int, int>> sortedAlphabet;
 
 
-        // Test af Magnus 123
+        // Test af Magnus 1234
         Dictionary<int, List<int>> test1 = new Dictionary<int, List<int>>();
 
         public List<List<string>> GatherWords(string filepath, int length)
