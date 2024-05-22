@@ -1,7 +1,0 @@
-C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\FiveWordsFiveLetters\bin\Debug\FiveWordsFiveLetters.exe.config
-C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\FiveWordsFiveLetters\bin\Debug\FiveWordsFiveLetters.exe
-C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\FiveWordsFiveLetters\bin\Debug\FiveWordsFiveLetters.pdb
-C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\FiveWordsFiveLetters\obj\Debug\FiveWordsFiveLetters.csproj.AssemblyReference.cache
-C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\FiveWordsFiveLetters\obj\Debug\FiveWordsFiveLetters.csproj.CoreCompileInputs.cache
-C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\FiveWordsFiveLetters\obj\Debug\FiveWordsFiveLetters.exe
-C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\FiveWordsFiveLetters\obj\Debug\FiveWordsFiveLetters.pdb
