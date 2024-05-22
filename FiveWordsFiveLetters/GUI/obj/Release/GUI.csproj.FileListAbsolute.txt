@@ -1,0 +1,13 @@
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\bin\Release\GUI.exe.config
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\bin\Release\GUI.exe
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\bin\Release\GUI.pdb
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\bin\Release\Program.dll
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\bin\Release\Program.pdb
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Release\GUI.csproj.AssemblyReference.cache
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Release\GUI.FiveLettersFiveWords.resources
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Release\GUI.csproj.CopyComplete
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Release\GUI.exe
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Release\GUI.pdb

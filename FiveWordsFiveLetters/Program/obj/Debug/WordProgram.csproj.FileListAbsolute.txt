@@ -1,0 +1,6 @@
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\Program\obj\Debug\WordProgram.csproj.AssemblyReference.cache
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\Program\obj\Debug\WordProgram.csproj.CoreCompileInputs.cache
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\Program\bin\Debug\Program.dll
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\Program\bin\Debug\Program.pdb
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\Program\obj\Debug\Program.dll
+C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\Program\obj\Debug\Program.pdb
