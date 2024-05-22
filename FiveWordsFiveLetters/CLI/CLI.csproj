@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Program\WordProgram.csproj">
-      <Project>{3BE9AD76-9E4F-4AEC-8D8C-72CB9874BB59}</Project>
+      <Project>{3be9ad76-9e4f-4aec-8d8c-72cb9874bb59}</Project>
       <Name>WordProgram</Name>
     </ProjectReference>
   </ItemGroup>

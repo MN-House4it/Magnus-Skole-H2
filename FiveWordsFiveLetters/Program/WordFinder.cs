@@ -282,14 +282,14 @@ namespace WordProgram
 
                         WordMatches(usedBits | bit, letter + 1, newMatchedBits);
 
-                        //Interlocked.Increment(ref doneCount);
-                        //int progress = (int)(((double)doneCount / doneFinalCount) * 100);
+                        Interlocked.Increment(ref doneCount);
+                        int progress = (int)(((double)doneCount / doneFinalCount) * 100);
                         //if (progress != lastProgress)
                         //{
                         //    lastProgress = progress;
                             
                         //}
-                        //ProgressChanged?.Invoke(progress);
+                        ProgressChanged?.Invoke(progress);
                     });
                 }
                 else

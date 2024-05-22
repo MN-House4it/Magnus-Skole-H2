@@ -11,3 +11,16 @@ C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\bin\Debug\Program.pd
 C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Debug\GUI.exe
 C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\GUI\obj\Debug\GUI.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\bin\Debug\GUI.exe.config
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\bin\Debug\GUI.exe
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\bin\Debug\GUI.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\bin\Debug\Program.dll
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\bin\Debug\Program.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\obj\Debug\GUI.FiveLettersFiveWords.resources
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\obj\Debug\GUI.exe
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\GUI\obj\Debug\GUI.pdb
