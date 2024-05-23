@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProgram", "Program\Word
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI", "CLI\CLI.csproj", "{DFF27B47-EADD-4EFA-9D8D-75647F30C1EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF GUI", "WPF GUI\WPF GUI.csproj", "{D6FF82C8-D0C2-4168-962A-26EDBCEC4273}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DFF27B47-EADD-4EFA-9D8D-75647F30C1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFF27B47-EADD-4EFA-9D8D-75647F30C1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFF27B47-EADD-4EFA-9D8D-75647F30C1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FF82C8-D0C2-4168-962A-26EDBCEC4273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FF82C8-D0C2-4168-962A-26EDBCEC4273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FF82C8-D0C2-4168-962A-26EDBCEC4273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FF82C8-D0C2-4168-962A-26EDBCEC4273}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

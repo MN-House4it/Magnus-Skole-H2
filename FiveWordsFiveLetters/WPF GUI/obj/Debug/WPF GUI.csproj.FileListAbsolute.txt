@@ -1,0 +1,18 @@
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\bin\Debug\WPF GUI.exe.config
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\bin\Debug\WPF GUI.exe
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\bin\Debug\WPF GUI.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI.csproj.AssemblyReference.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\MainWindow.g.cs
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\App.g.cs
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI_MarkupCompile.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI_MarkupCompile.lref
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\MainWindow.baml
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI.g.resources
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI.csproj.GenerateResource.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI.csproj.CoreCompileInputs.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI.exe
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\bin\Debug\Program.dll
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\bin\Debug\Program.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\WPF GUI\obj\Debug\WPF GUI.csproj.CopyComplete

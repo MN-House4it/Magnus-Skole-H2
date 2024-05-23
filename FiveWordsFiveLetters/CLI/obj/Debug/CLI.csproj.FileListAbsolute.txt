@@ -8,3 +8,13 @@ C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\CLI\obj\Debug\CLI.csproj
 C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\CLI\obj\Debug\CLI.csproj.CopyComplete
 C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\CLI\obj\Debug\CLI.exe
 C:\Users\MagnusNissen\source\repos\FiveWordsFiveLetters\CLI\obj\Debug\CLI.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\bin\Debug\CLI.exe.config
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\bin\Debug\CLI.exe
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\bin\Debug\CLI.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\bin\Debug\Program.dll
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\bin\Debug\Program.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\obj\Debug\CLI.csproj.AssemblyReference.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\obj\Debug\CLI.csproj.CoreCompileInputs.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\obj\Debug\CLI.csproj.CopyComplete
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\obj\Debug\CLI.exe
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\FiveWordsFiveLetters\CLI\obj\Debug\CLI.pdb

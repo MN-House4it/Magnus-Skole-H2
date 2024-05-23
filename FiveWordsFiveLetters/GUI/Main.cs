@@ -26,7 +26,8 @@ namespace GUI
         public FiveLettersFiveWords()
         {
             InitializeComponent();
-            trackBar.Value = wordLength;
+            this.trackBar.Value = wordLength;
+            this.ShowIcon = false;
         }
 
 
@@ -171,7 +172,11 @@ namespace GUI
                         MessageBox.Show("An error occurred while exporting data: " + ex.Message);
                     }
                 }
-            }         
+            }
+            else
+            {
+                MessageBox.Show("There is no calculations to export!");
+            }
         }
     }
 }
