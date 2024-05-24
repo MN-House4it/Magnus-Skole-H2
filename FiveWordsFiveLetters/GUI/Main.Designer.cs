@@ -215,7 +215,7 @@
             this.Controls.Add(this.trackBar);
             this.Controls.Add(this.buttonBrowse);
             this.Name = "FiveLettersFiveWords";
-            this.Text = "Five letter - five words";
+            this.Text = "Word program";
             ((System.ComponentModel.ISupportInitialize)(this.trackBar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).EndInit();
             this.ResumeLayout(false);
