@@ -81,10 +81,10 @@
                     <ColumnDefinition Width="Auto"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
-                
+
                 <TextBlock x:Name="DisplayProcentage" Text="{Binding ElementName=progressBar, Path=Value, StringFormat={}{0}%}" VerticalAlignment="Center" Grid.Column="0" HorizontalAlignment="Left" Margin="0,0,10,0"/>
                 <ProgressBar x:Name="progressBar" Height="28" Grid.Column="1" VerticalAlignment="Center" Visibility="Visible"/>
             </Grid>
-        </Grid>      
+        </Grid>
     </Grid>
 </Window>
