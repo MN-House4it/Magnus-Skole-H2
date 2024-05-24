@@ -99,16 +99,16 @@ namespace WPF_GUI
             else
             {
                 // Update the progress bar and label on the UI thread
-                if (progressBar.Visibility == Visibility.Hidden)
+                if (progressBox.Visibility == Visibility.Hidden)
                 {
-                    progressBar.Visibility = Visibility.Visible;
+                    progressBox.Visibility = Visibility.Visible;
                     //labelPercentage.Visibility = Visibility.Visible;
                 }
                 progressBar.Value = progress;
                 //labelPercentage.Content = progress.ToString() + "%";
                 if (progress >= 100)
                 {
-                    progressBar.Visibility = Visibility.Hidden;
+                    progressBox.Visibility = Visibility.Hidden;
                     //labelPercentage.Visibility = Visibility.Hidden;
                     this.IsEnabled = true;
                 }
