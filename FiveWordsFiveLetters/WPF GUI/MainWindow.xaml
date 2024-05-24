@@ -37,9 +37,7 @@
             <Label Content="Path:" VerticalAlignment="Center" HorizontalAlignment="Right" Width="Auto"/>
             <Label x:Name="DisplayPath" VerticalAlignment="Center"/>
         </StackPanel>
-        
 
-        
 
         <ListView x:Name="ListView" Grid.ColumnSpan="2" Grid.Row="2" Margin="10">
             <ListView.View>
@@ -59,7 +57,6 @@
                 <RowDefinition Height="Auto"/>
             </Grid.RowDefinitions>
 
-
             <Grid Grid.Row="0" Grid.Column="0">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto"/>
@@ -69,8 +66,6 @@
                     <RowDefinition Height="Auto"/>
                     <RowDefinition Height="Auto"/>
                 </Grid.RowDefinitions>
-
-
 
                 <Label Content="Word combinations:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
                 <Label x:Name="DisplayWordCount" Content="N/A" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center"/>
@@ -86,11 +81,10 @@
                     <ColumnDefinition Width="Auto"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
+                
                 <TextBlock x:Name="DisplayProcentage" Text="{Binding ElementName=progressBar, Path=Value, StringFormat={}{0}%}" VerticalAlignment="Center" Grid.Column="0" HorizontalAlignment="Left" Margin="0,0,10,0"/>
                 <ProgressBar x:Name="progressBar" Height="28" Grid.Column="1" VerticalAlignment="Center" Visibility="Visible"/>
             </Grid>
-
-
         </Grid>      
     </Grid>
 </Window>
