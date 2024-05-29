@@ -1,13 +1,13 @@
 ﻿namespace PeopleVilleEngine.Locations;
-public class SimpleHouse : IHouse
+public class NursingHome : IHouse
 {
-    public SimpleHouse()
+    public NursingHome()
     {
         var random = RNG.GetInstance();
-        MaxPopulation = random.Next(1, 5);
+        MaxPopulation = random.Next(50, 200);
     }
     private readonly List<BaseVillager> _villagers = new();
-    public string Name => $"Simple House, with a population of {Population}.";
+    public string Name => $"Nursing home, with a population of {Population}.";
 
     public List<BaseVillager> Villagers()
     {

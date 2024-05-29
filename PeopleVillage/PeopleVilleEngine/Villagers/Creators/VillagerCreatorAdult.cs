@@ -5,7 +5,7 @@ public class VillagerCreatorAdult : IVillagerCreator
     public bool CreateVillager(Village village)
     {
         var random = RNG.GetInstance();
-        var adult = new AdultVillager(village, random.Next(18, 40));
+        var adult = new AdultVillager(village, random.Next(18, 70));
         //Find house
         var home = FindHome(village);
 
@@ -37,7 +37,7 @@ public class VillagerCreatorAdult : IVillagerCreator
             return (IHouse)potentialHomes[random.Next(0, potentialHomes.Count)];
 
         //create a new house
-        IHouse house = new SimpleHouse();
+        IHouse house = new House();
         village.Locations.Add(house);
         return house;
 
