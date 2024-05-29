@@ -10,7 +10,9 @@ public abstract class BaseVillager
     public bool IsMale { get; set; }
     private Village _village;
     public ILocation? Home { get; set; } = null;
-    public bool pension { get; set; } 
+    public bool pension { get; set; }
+    public bool teenager { get; set; }
+
     public bool HasHome() => Home != null;
     
     public bool IsPensionist() => pension != null;
