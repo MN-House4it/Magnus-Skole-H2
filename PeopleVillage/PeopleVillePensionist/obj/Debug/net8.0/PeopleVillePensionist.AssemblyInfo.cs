@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeopleVillePensionist")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dd347d609e8b871503ccf81a1613ddd444fd428")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0563f0f99d423a911ac20e0b268fdccd319e2d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeopleVillePensionist")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeopleVillePensionist")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
