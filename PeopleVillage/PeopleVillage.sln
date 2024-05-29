@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleVilleVillagerHomeless
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleVillePensionist", "PeopleVillePensionist\PeopleVillePensionist.csproj", "{86403750-979E-4E13-9A02-A5EF99333875}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleVilleTeenager", "PeopleVilleTeenager\PeopleVilleTeenager.csproj", "{23642008-9DD4-4B7A-8936-EA0295E38F0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{86403750-979E-4E13-9A02-A5EF99333875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86403750-979E-4E13-9A02-A5EF99333875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86403750-979E-4E13-9A02-A5EF99333875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23642008-9DD4-4B7A-8936-EA0295E38F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23642008-9DD4-4B7A-8936-EA0295E38F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23642008-9DD4-4B7A-8936-EA0295E38F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23642008-9DD4-4B7A-8936-EA0295E38F0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

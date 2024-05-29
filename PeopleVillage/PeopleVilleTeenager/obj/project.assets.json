@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net8.0": {
       "PeopleVilleEngine/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -22,7 +22,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net8.0": [
       "PeopleVilleEngine >= 1.0.0"
     ]
   },
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleVillagerHomeless\\PeopleVilleVillagerHomeless.csproj",
-      "projectName": "PeopleVilleVillagerHomeless",
-      "projectPath": "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleVillagerHomeless\\PeopleVilleVillagerHomeless.csproj",
+      "projectUniqueName": "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj",
+      "projectName": "PeopleVilleTeenager",
+      "projectPath": "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj",
       "packagesPath": "C:\\Users\\lokel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleVillagerHomeless\\obj\\",
+      "outputPath": "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,18 +48,18 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj": {
-              "projectPath": "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj"
+            "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj": {
+              "projectPath": "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj"
             }
           }
         }
@@ -71,8 +71,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -84,11 +84,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
