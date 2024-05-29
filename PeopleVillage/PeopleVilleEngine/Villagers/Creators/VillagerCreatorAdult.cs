@@ -38,8 +38,22 @@ public class VillagerCreatorAdult : IVillagerCreator
             return (IHouse)potentialHomes[random.Next(0, potentialHomes.Count)];
 
         //create a new house
-        IHouse house = new SimpleHouse();
-        village.Locations.Add(house);
+        int houseType = random.Next(0, 100);
+
+        IHouse house = null;
+        if (houseType <= 40)
+        {
+            // Apartment
+            house = new Apartment();
+            village.Locations.Add(house);
+        }
+        else
+        {
+            // House
+            house = new SimpleHouse();
+            village.Locations.Add(house);
+        }
+        
         return house;
 
     }
