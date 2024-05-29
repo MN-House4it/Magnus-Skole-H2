@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj": {}
+    "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj": {
+    "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj",
+        "projectUniqueName": "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj",
         "projectName": "PeopleVilleEngine",
-        "projectPath": "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj",
-        "packagesPath": "C:\\Users\\MagnusNissen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\obj\\",
+        "projectPath": "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj",
+        "packagesPath": "C:\\Users\\lokel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lokel\\Source\\Repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MagnusNissen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lokel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,21 +59,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj": {
+    "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj",
+        "projectUniqueName": "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj",
         "projectName": "PeopleVilleTeenager",
-        "projectPath": "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj",
-        "packagesPath": "C:\\Users\\MagnusNissen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\obj\\",
+        "projectPath": "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\PeopleVilleTeenager.csproj",
+        "packagesPath": "C:\\Users\\lokel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleTeenager\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MagnusNissen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lokel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +91,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj": {
-                "projectPath": "C:\\Users\\MagnusNissen\\OneDrive - HOUSE4IT A S\\Dokumenter\\GitHub\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj"
+              "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj": {
+                "projectPath": "C:\\Users\\lokel\\source\\repos\\Magnus-Skole-H2\\PeopleVillage\\PeopleVilleEngine\\PeopleVilleEngine.csproj"
               }
             }
           }
@@ -109,12 +117,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
