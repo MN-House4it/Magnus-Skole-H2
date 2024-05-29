@@ -4,8 +4,9 @@ public class VillagerCreatorAdult : IVillagerCreator
 {
     public bool CreateVillager(Village village)
     {
+
         var random = RNG.GetInstance();
-        var adult = new AdultVillager(village, random.Next(18, 70));
+        var adult = new AdultVillager(village, random.Next(18, 40));
         //Find house
         var home = FindHome(village);
 
@@ -33,11 +34,11 @@ public class VillagerCreatorAdult : IVillagerCreator
             .Where(p => p.Villagers().Count(v => v.GetType() == typeof(AdultVillager)) < 2)
             .Where(p => ((IHouse)p).Population < ((IHouse)p).MaxPopulation).ToList();
 
-        if (potentialHomes.Count > 0 && random.Next(1, 5) != 1) //Return current house
+        if (potentialHomes.Count > 0 && random.Next(1, 5)!= 1) //Return current house
             return (IHouse)potentialHomes[random.Next(0, potentialHomes.Count)];
 
         //create a new house
-        IHouse house = new House();
+        IHouse house = new SimpleHouse();
         village.Locations.Add(house);
         return house;
 

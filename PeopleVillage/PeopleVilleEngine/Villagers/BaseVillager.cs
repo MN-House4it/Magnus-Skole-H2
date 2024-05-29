@@ -1,5 +1,6 @@
 ﻿using PeopleVilleEngine;
 using PeopleVilleEngine.Locations;
+using PeopleVilleEngine.Villagers;
 
 public abstract class BaseVillager
 {
@@ -9,7 +10,10 @@ public abstract class BaseVillager
     public bool IsMale { get; set; }
     private Village _village;
     public ILocation? Home { get; set; } = null;
+    public bool pension { get; set; } 
     public bool HasHome() => Home != null;
+    
+    public bool IsPensionist() => pension != null;
 
     protected BaseVillager(Village village)
     {

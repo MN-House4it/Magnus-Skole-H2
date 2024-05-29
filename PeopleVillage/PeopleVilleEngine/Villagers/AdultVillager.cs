@@ -1,4 +1,5 @@
-﻿namespace PeopleVilleEngine.Villagers;
+﻿
+namespace PeopleVilleEngine.Villagers;
 public class AdultVillager : BaseVillager
 {
     public AdultVillager(Village village) : base(village)

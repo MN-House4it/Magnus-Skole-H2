@@ -3,7 +3,7 @@ public class ChildVillager : BaseVillager
 {
     public ChildVillager(Village village) : base(village)
     {
-        Age = RNG.GetInstance().Next(0, 12);
+        Age = RNG.GetInstance().Next(0, 18);
     }
 
     public ChildVillager(Village village, int age) : this(village)

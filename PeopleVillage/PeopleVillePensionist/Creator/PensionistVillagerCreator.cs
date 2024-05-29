@@ -17,7 +17,7 @@ namespace PeopleVillePensionist.Create
         {
 
 
-            if (village.Villagers.Count(v => v.Ispensionist()) > village.Villagers.Count* 0.3)
+            if (village.Villagers.Count(v => v.IsPensionist()) > village.Villagers.Count* 0.3)
                 return false; //No more the 30% can be pensionist
 
             var random = RNG.GetInstance();
