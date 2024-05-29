@@ -5,6 +5,7 @@ public class House : IHouse
     {
         var random = RNG.GetInstance();
         MaxPopulation = random.Next(1, 6);
+        houseType = HouseType.House;
     }
     private readonly List<BaseVillager> _villagers = new();
     public string Name => $"House, with a population of {Population}.";
@@ -16,4 +17,5 @@ public class House : IHouse
 
     public int Population => _villagers.Count;
     public int MaxPopulation { get; set; }
+    public HouseType houseType { get; set; }
 }

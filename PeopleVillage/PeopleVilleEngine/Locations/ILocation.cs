@@ -9,4 +9,15 @@ public interface IHouse : ILocation
 {
     public int Population { get; }
     public int MaxPopulation { get; set; }
+
+    public HouseType houseType { get; set; }
+
+}
+
+public enum HouseType
+{
+    House,
+    Apartment,
+    NursingHome,
+    
 }

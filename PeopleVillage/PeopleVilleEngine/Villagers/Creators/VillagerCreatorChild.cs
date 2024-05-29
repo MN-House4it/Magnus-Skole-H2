@@ -26,7 +26,7 @@ public class VillagerCreatorChild : IVillagerCreator
 
         var potentialHomes = village.Locations.Where(p => p.GetType().IsAssignableTo(typeof(IHouse)))
            .Where(p => p.Villagers().Count(v => v.GetType() == typeof(AdultVillager)) >= 2)
-           .Where(p => ((IHouse)p).Population < ((IHouse)p).MaxPopulation).ToList();
+           .Where(p => ((IHouse)p).Population < ((IHouse)p).MaxPopulation && (((IHouse)p).houseType == HouseType.House || ((IHouse)p).houseType == HouseType.Apartment)).ToList();
 
         if (potentialHomes.Count == 0)
             return null;

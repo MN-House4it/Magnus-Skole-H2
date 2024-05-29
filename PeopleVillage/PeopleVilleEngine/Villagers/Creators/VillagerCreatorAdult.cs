@@ -32,7 +32,7 @@ public class VillagerCreatorAdult : IVillagerCreator
 
         var potentialHomes = village.Locations.Where(p => p.GetType().IsAssignableTo(typeof(IHouse)))
             .Where(p => p.Villagers().Count(v => v.GetType() == typeof(AdultVillager)) < 2)
-            .Where(p => ((IHouse)p).Population < ((IHouse)p).MaxPopulation).ToList();
+            .Where(p => ((IHouse)p).Population < ((IHouse)p).MaxPopulation && (((IHouse)p).houseType == HouseType.House || ((IHouse)p).houseType == HouseType.NursingHome)).ToList();
 
         if (potentialHomes.Count > 0 && random.Next(1, 5)!= 1) //Return current house
             return (IHouse)potentialHomes[random.Next(0, potentialHomes.Count)];

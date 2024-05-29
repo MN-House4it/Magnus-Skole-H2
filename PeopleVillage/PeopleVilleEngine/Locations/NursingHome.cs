@@ -5,6 +5,7 @@ public class NursingHome : IHouse
     {
         var random = RNG.GetInstance();
         MaxPopulation = random.Next(50, 200);
+        houseType = HouseType.NursingHome;
     }
     private readonly List<BaseVillager> _villagers = new();
     public string Name => $"Nursing home, with a population of {Population}.";
@@ -16,4 +17,5 @@ public class NursingHome : IHouse
 
     public int Population => _villagers.Count;
     public int MaxPopulation { get; set; }
+    public HouseType houseType { get; set; }
 }
