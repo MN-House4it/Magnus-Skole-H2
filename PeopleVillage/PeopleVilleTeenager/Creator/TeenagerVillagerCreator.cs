@@ -21,6 +21,7 @@ namespace PeopleVilleTeenager.Create
                 return false; //No more the 30% can be Teenager
 
             var random = RNG.GetInstance();
+            if (random.Next(1, 11) !=8)
                  return false; //1 of 10 chance to create a pension
 
             //Teenager start 12
