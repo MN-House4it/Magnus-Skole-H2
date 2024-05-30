@@ -38,20 +38,6 @@ C:\Users\b\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debu
 C:\Users\b\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\refint\PeopleVilleEngine.dll
 C:\Users\b\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.pdb
 C:\Users\b\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\ref\PeopleVilleEngine.dll
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\lib\names.json
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\lib\PeopleVilleVillagerHomeless.dll
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\PeopleVilleEngine.deps.json
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\PeopleVilleEngine.dll
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\PeopleVilleEngine.pdb
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.AssemblyInfoInputs.cache
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.AssemblyInfo.cs
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.csproj.CoreCompileInputs.cache
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.sourcelink.json
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.dll
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\refint\PeopleVilleEngine.dll
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.pdb
-C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\ref\PeopleVilleEngine.dll
 C:\Users\lokel\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\lib\names.json
 C:\Users\lokel\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\lib\PeopleVilleVillagerHomeless.dll
 C:\Users\lokel\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\PeopleVilleEngine.deps.json
@@ -66,3 +52,17 @@ C:\Users\lokel\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\
 C:\Users\lokel\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\refint\PeopleVilleEngine.dll
 C:\Users\lokel\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.pdb
 C:\Users\lokel\Source\Repos\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\ref\PeopleVilleEngine.dll
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\lib\names.json
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\lib\PeopleVilleVillagerHomeless.dll
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\PeopleVilleEngine.deps.json
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\PeopleVilleEngine.dll
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\bin\Debug\net7.0\PeopleVilleEngine.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.AssemblyInfoInputs.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.AssemblyInfo.cs
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.csproj.CoreCompileInputs.cache
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.sourcelink.json
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.dll
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\refint\PeopleVilleEngine.dll
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\PeopleVilleEngine.pdb
+C:\Users\MagnusNissen\OneDrive - HOUSE4IT A S\Dokumenter\GitHub\Magnus-Skole-H2\PeopleVillage\PeopleVilleEngine\obj\Debug\net7.0\ref\PeopleVilleEngine.dll

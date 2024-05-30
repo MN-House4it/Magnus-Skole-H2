@@ -12,29 +12,20 @@ namespace PeopleVilleTeenager.Create
 {
     public class TeenagerVillagerCreator : IVillagerCreator
     {
-
-        public bool CreateTeenagerVillager(Village village)
+        public bool CreateVillager(Village village)
         {
-
-
-            if (village.Villagers.Count(v => v.IsTeenager()) > village.Villagers.Count* 0.3)
+            if (village.Villagers.Count(v => v.IsTeenager()) > village.Villagers.Count * 0.3)
                 return false; //No more the 30% can be Teenager
 
             var random = RNG.GetInstance();
-            if (random.Next(1, 11) !=8)
-                 return false; //1 of 10 chance to create a pension
+            if (random.Next(1, 11) != 8)
+                return false; //1 of 10 chance to create a Teenager
 
             //Teenager start 12
             var Teenager = new TeenagerVillager(village, random.Next(12, 19));
             ////Add to village
             village.Villagers.Add(Teenager);
             return true;
-        }
- 
-
-        public bool CreateVillager(Village village)
-        {
-            throw new NotImplementedException();
-        }
+        }   
     }
 }

@@ -16,6 +16,7 @@ public abstract class BaseVillager
     public bool HasHome() => Home != null;
     
     public bool IsPensionist() => pension != null;
+    public bool IsTeenager() => teenager != null;
 
     protected BaseVillager(Village village)
     {

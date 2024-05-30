@@ -53,12 +53,17 @@ public class Village
             villageCreators);
 
         //Load from library Files
+        var test = Directory.EnumerateFiles("lib");
         var libraryFiles = Directory.EnumerateFiles("lib").Where(f => Path.GetExtension(f) == ".dll");
         foreach (var libraryFile in libraryFiles)
         {
-            LoadVillagerCreatorFactoriesFromType(
+            if (File.Exists(libraryFile))
+            {
+                LoadVillagerCreatorFactoriesFromType(
                 Assembly.LoadFrom(libraryFile).ExportedTypes,
                 villageCreators);
+            }
+            
         }
         return villageCreators;
     }
