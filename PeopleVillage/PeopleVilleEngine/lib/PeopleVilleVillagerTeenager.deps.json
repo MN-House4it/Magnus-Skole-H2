@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PeopleVilleVillagerTeenager/1.0.0": {
+        "dependencies": {
+          "PeopleVilleEngine": "1.0.0"
+        },
+        "runtime": {
+          "PeopleVilleVillagerTeenager.dll": {}
+        }
+      },
+      "PeopleVilleEngine/1.0.0": {
+        "runtime": {
+          "PeopleVilleEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleVilleVillagerTeenager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleVilleEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -18,6 +18,5 @@ public enum HouseType
 {
     House,
     Apartment,
-    NursingHome,
-    
+    NursingHome,    
 }
