@@ -24,6 +24,10 @@ body {
   margin: 0;
   background-color: #f0f0f0; /* Soft background color */
   font-family: Arial, sans-serif; /* Font for better readability */
+
+  background-image: url('../public/web-counter-background.jpg');
+  background-size: cover;
+      background-position: center;
 }
 /* Container styling */
 .container {
