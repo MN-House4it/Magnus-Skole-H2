@@ -38,6 +38,13 @@ app.post('/increment', (req, res) => {
   res.json({ count });
 });
 
+// Route to reset the count
+app.post('/reset', (req, res) => {
+    count = 0;
+    setCount(count);
+    res.json({ count });
+  });
+
 // Start the server
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);

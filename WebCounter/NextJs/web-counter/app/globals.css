@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0; /* Soft background color */
+  font-family: Arial, sans-serif; /* Font for better readability */
+}
+/* Container styling */
+.container {
+  text-align: center;
+  background-color: #fff; /* White background */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+/* Additional styling for better visual */
+h1 {
+  margin-bottom: 10px;
+  color: #333; /* Dark text color */
+}
+p {
+  margin-bottom: 20px;
+  color: #666; /* Medium text color */
+}
+button {
+  padding: 10px 20px;
+  margin:  10px;
+  font-size: 16px;
+  background-color: #007bff; /* Blue button color */
+  color: #fff; /* White text color */
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:active {
+  background-color: #0056b3; /* Darker blue on click */
+  transform: translateY(1px); /* Move down slightly when clicked */
+}
+span {
+  font-weight: bold; /* Bold count number */
+  font-size: 20px;
+  color: #333; /* Dark count number color */
+}
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const countDisplay = document.getElementById('count');
     const incrementButton = document.getElementById('incrementButton');
+    const resetButton = document.getElementById('resetButton');
   
     // Function to fetch and display the current count
     const fetchCount = async () => {
@@ -18,5 +19,11 @@ document.addEventListener('DOMContentLoaded', () => {
       const data = await response.json();
       countDisplay.innerText = data.count;
     });
+
+    resetButton.addEventListener('click', async () => {
+        const response = await fetch('/reset', { method: 'POST' });
+        const data = await response.json();
+        countDisplay.innerText = data.count;
+      });
   });
   
